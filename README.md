@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Olá, sou o Jonathan! 👋 | Foco em Python e Automação | Estudante de TI
 <!--
 **jonathankl21/jonathankl21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
